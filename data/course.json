@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Cancer"
+    ],
+    [
+      "Health and Medicine",
+      "Immunology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "197f0ebc-cb59-2716-1125-60d13e4f9bb2",
+  "instructors": {
+    "content": [
+      "3a7963e9-fb98-71a6-963b-619fe338ae0e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "31d9940c-8ab7-58f6-95fc-719742eef6d3",
+    "website": "7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015"
+  },
+  "course_title": "Of Mice and Men: Humanized Mice in Cancer Research",
+  "course_description": "This course will act as an introduction to the latest developments in the fields of cancer biology and immunotherapy. Almost everyone knows someone whose life has been affected by cancer. Why is cancer such a difficult disease to treat? What is the best system to model the development of a human tumor? How can new treatment modalities, especially immune-based therapies that harness the natural ability of immune cells to kill target cells, be developed to treat cancer? These and other questions will be addressed in this course. We will explore the concepts of mouse models for human cancer, humanized cancer mice and cancer immunotherapy by reading recent and classic research articles.\n\nThis course is one of many {{% resource_link \"c2228089-83eb-434d-857f-17767029fc29\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.341",
+  "course_image_thumbnail": {
+    "content": "c72b3fc6-9b18-7a5f-dd54-c0b963f6765b",
+    "website": "7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "06bb539c-b535-4078-b462-a1ca9c81ceea",
+  "site_short_id": "7.341-spring-2015",
+  "site_url_path": "courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015",
+  "title": "Course Metadata"
+}
