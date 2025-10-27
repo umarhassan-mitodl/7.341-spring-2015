@@ -4,8 +4,6 @@ description: ''
 file: /courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015/less_than_10.png
 file_size: 2955
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
