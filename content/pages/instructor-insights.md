@@ -15,7 +15,7 @@ This page focuses on the course *7.341 Of Mice and Men: Humanized Mice in Cancer
 
 This course introduces students to the latest developments in the fields of cancer biology and immunotherapy. Students explore the concepts of mouse models for human cancer, humanized cancer mice, and cancer immunotherapy by reading recent and classic research articles.
 
-*7.341 Of Mice and Men* is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.
+*7.341 Of Mice and Men* is one of many {{% resource_link "09950cb9-b067-45e6-b0d4-4a06dbd58768" "Advanced Undergraduate Seminars" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.
 
 ## Course Outcomes
 
